@@ -20,4 +20,6 @@
     IdentityFile=C:\Users\asus\.ssh/id_rsa 
     HostkeyAlgorithms=ssh-rsa 
 
-5.20131024gxl.
+5.Access denied
+凭据管理器，网址一定要到自己的账户那一层级，否则可能会push不了代码
+   https://github.com/april-snowing
