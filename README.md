@@ -1,9 +1,5 @@
-|
-- ssh issue 
-- npm run 深度解读
-|
-|
-    记录登录管理repository的问题
+|- ssh issue - npm run 深度解读|
+|记录登录管理repository的问题
 
     1.生成密匙
 
@@ -32,5 +28,4 @@
     5.Access denied
 
     凭据管理器，网址一定要到自己的账户那一层级
-    https://github.com/april-snowing
-|
+    https://github.com/april-snowing|
