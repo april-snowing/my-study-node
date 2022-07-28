@@ -1,6 +1,7 @@
 
 #ssh issue 
   - 记录登录管理repository的问题
+
     1.生成密匙
 
         ssh-keygen -t rsa -C "15*****6@qq.com"   
@@ -27,5 +28,5 @@
 
     5.Access denied
 
-    凭据管理器，网址一定要到自己的账户那一层级
-    https://github.com/april-snowing
+        凭据管理器，网址一定要到自己的账户那一层级
+        https://github.com/april-snowing
