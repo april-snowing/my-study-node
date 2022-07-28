@@ -1,7 +1,6 @@
 
-# ssh issue 
-## 记录登录管理repository的问题
-
+#ssh issue 
+-记录登录管理repository的问题
     1.生成密匙
 
         ssh-keygen -t rsa -C "15*****6@qq.com"   
