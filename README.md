@@ -1,6 +1,6 @@
 #### ssh issue
 
-1.记录登录管理repository的问题
+- 记录登录管理repository的问题
 
     1.生成密匙
 
